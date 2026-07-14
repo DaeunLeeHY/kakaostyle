@@ -1,0 +1,12 @@
+# YouTube Data API v3 클라이언트
+google-api-python-client>=2.100.0
+
+# 데이터 처리 / 분석
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 시각화 (리포트 차트)
+matplotlib>=3.7.0
+
+# 환경변수 로딩
+python-dotenv>=1.0.0
